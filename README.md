@@ -1,5 +1,5 @@
-#To-Do-List project
-###ASP .NET MVC
+# To-Do-List project
+### ASP .NET MVC
 
 - The project aims to develop a web-based CRUD (Create, Read, Update, Delete) application.
   
