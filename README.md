@@ -12,3 +12,6 @@
 - The application will utilize LINQ (Language Integrated Query) to connect and interact with a database.
   
 - Designed with the power of Bootstrap.
+
+🖇️ Here is the video for the project on Google Drive:
+https://drive.google.com/file/d/19ol7VUEt9iXEWv5EKjHxeh9SNHYN87Jw/view?usp=drivesdk
